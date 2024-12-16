@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\first_lab\\App1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FABCDD3-D51F-4E62-926D-BF6A22443CE0}|App1.csproj|d:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\first_lab\\app1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FABCDD3-D51F-4E62-926D-BF6A22443CE0}|App1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FABCDD3-D51F-4E62-926D-BF6A22443CE0}|App1.csproj|d:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\first_lab\\app1\\userinterface\\\u0441ontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FABCDD3-D51F-4E62-926D-BF6A22443CE0}|App1.csproj|solutionrelative:userinterface\\\u0441ontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FABCDD3-D51F-4E62-926D-BF6A22443CE0}|App1.csproj|d:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\first_lab\\app1\\corespace\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FABCDD3-D51F-4E62-926D-BF6A22443CE0}|App1.csproj|solutionrelative:corespace\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\first_lab\\App1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\first_lab\\App1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:38:20.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u0421ontainer.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\first_lab\\App1\\UserInterface\\\u0421ontainer.cs",
+              "RelativeDocumentMoniker": "UserInterface\\\u0421ontainer.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\first_lab\\App1\\UserInterface\\\u0421ontainer.cs",
+              "RelativeToolTip": "UserInterface\\\u0421ontainer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:37:25.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Catalog.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\first_lab\\App1\\CoreSpace\\Catalog.cs",
+              "RelativeDocumentMoniker": "CoreSpace\\Catalog.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\first_lab\\App1\\CoreSpace\\Catalog.cs",
+              "RelativeToolTip": "CoreSpace\\Catalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:25:25.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
